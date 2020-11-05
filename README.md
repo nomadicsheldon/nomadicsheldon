@@ -1,5 +1,13 @@
-### Hi! 👋 I'm Himanshu. I ❤️ building things and making them scalable.
-### Software Engineer 👨‍💻, team player 🤝, learning nerd.
+<h2 align="center">Hi! 👋 I'm Himanshu. I ❤️ building things and making them scalable.</h2>
+<h3 align="center">Software Engineer 👨‍💻, team player 🤝, learning nerd.</h3>
+<p align="center">
+  <a href="https://twitter.com/nomadicsheldon">Twitter </a>|
+  <a href="https://medium.com/@nomadicsheldon"> Blogs </a>|
+  <a href="https://www.linkedin.com/in/nomadicsheldon/"> Linkedin</a>
+</p>
+
+---
+
 <!--
 - 🔭 I’m currently working on ...
 -->
@@ -9,8 +17,6 @@
 - 🤔 I’m looking for help with ...
 -->
 - 💬 Ask me about ... anything
-- 📫 How to reach me: ... [twitter](https://twitter.com/nomadicsheldon), [linkedin](https://www.linkedin.com/in/nomadicsheldon/)
-- Read my blogs ...[website](https://www.himanshurajput.com/blogs), [medium](https://medium.com/@nomadicsheldon)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... If I have a choice to play or study, I will blindly choose to play.😇
 <p float="left">
