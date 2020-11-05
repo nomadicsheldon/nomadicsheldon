@@ -1,7 +1,8 @@
 ### Hi! 👋 I'm Himanshu. I ❤️ building things and making them scalable.
 ### Software Engineer 👨‍💻, team player 🤝, learning nerd.
-
+<!--
 - 🔭 I’m currently working on ...
+-->
 - 🌱 I’m currently learning ... React.js
 - 👯 I’m looking to collaborate on ... React.js and iOS development.
 <!--
