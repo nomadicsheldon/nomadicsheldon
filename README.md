@@ -19,7 +19,10 @@
 - 💬 Ask me about ... anything
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... If I have a choice to play or study, I will blindly choose to play.😇
-<p float="left">
+
+---
+
+<p align="center">
 <img src="https://media.giphy.com/media/JQpOCgnGfb7FCvEVrd/giphy.gif" width= "100" />
 <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width= "100" />
 <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width= "100" />
