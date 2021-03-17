@@ -11,7 +11,7 @@
 <!--
 - 🔭 I’m currently working on ...
 -->
-- 🌱 I’m currently learning ... React.js
+- 🌱 I’m currently learning ... React Native
 - 👯 I’m looking to collaborate on ... React.js and iOS development.
 <!--
 - 🤔 I’m looking for help with ...
